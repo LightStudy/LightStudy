@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LightStudy
+- 👀 I’m interested in Playing Video Games
+- 🌱 I’m currently learning Python, Unreal Engine
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me : TOBEALISTENER@outlook.com
